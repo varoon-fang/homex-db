@@ -23,7 +23,7 @@
 		             </a>
 		             <ul class="dropdown-menu">
 
-		                   <li ><a href="#">Donec sed odio dui</a></li>
+		                   <li ><a href="<?= site_url("solution/bathroom");?>">Bathroom Solution</a></li>
 		                   <li ><a href="#">Donec sed odio dui</a></li>
 		                   <li ><a href="#">Donec sed odio dui</a></li>
 		                   <li ><a href="#">Donec sed odio dui</a></li>
