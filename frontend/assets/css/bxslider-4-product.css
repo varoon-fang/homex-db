@@ -1,0 +1,113 @@
+
+/*====Media Quryey=====*/
+.bx-wrapper .bx-next {
+	
+	left: 1130px;
+}
+@media (max-width: 500px) {
+
+.bx-wrapper .bx-next {
+	
+	left: 20px;
+}
+.rightZone{
+margin-top: 15px;
+
+}
+
+div.carousel-indicators.news {
+	
+	z-index: 15;
+	text-align: left;
+	list-style: none outside none;
+	background-color: black;
+	position: absolute;
+	width: 100%;
+	left: 30%;
+	bottom: 0;
+	height: 28%;
+	opacity: 0.72;
+}
+
+div.carousel-indicators.news h4{
+	padding-left: 2%;
+	line-height: 6px;
+	font-size: x-small;
+}
+
+div.carousel-indicators.news p{
+	padding-left: 2%;
+	font-size: xx-small;
+}
+
+}
+@media (max-width: 767px) {
+
+.bx-wrapper .bx-next {
+	
+	left: 20px;
+	
+}
+.rightZone{
+margin-top: 15px;
+
+}
+
+.addressFloatLeft{
+	float: left;
+}
+
+header#headerZone .logo img{
+width: 90%;
+text-align: center;
+}
+
+.nav  li a{
+	color: white;
+	font-size: 14px;
+	font-family: 'Karla', sans-serif;
+}
+
+
+.nav  li >ul > li a{
+	color: white;
+	font: 14px 'Karla', sans-serif;
+}
+
+.media-body ul li{
+	
+	color: #666666;
+	line-height: 14px;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+  
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+ .bx-wrapper .bx-next {
+ 	
+ 	left: 709px;
+ }
+ 
+ .rightZone{
+ margin-top: 15px;
+ 
+ }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+.bx-wrapper .bx-next {
+	
+	left: 929px;
+}
+}
+
+}
+@media (min-width: 1200px) {
+  
+}
